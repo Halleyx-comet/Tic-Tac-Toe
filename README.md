@@ -9,7 +9,7 @@ Welcome to the **Tic Tac Toe** game, a classic two-player challenge built with R
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- 
+  
 ## 🌟 Overview
 
 This project, originally created three years ago, has been enhanced with new features and an improved design. It provides a fun way to engage with friends or family in a simple yet strategic game of Tic Tac Toe.
@@ -52,9 +52,9 @@ To get started with the Tic Tac Toe game, follow these simple steps:
 
 
 ## 🎮 How to Play
-Click on any cell in the grid to place your marker (X or O).
-The objective is to get three markers in a row (horizontally, vertically, or diagonally).
-If the grid fills up without a winner, the game results in a draw.
-Have fun and may the best player win!
+- Click on any cell in the grid to place your marker (X or O).
+- The objective is to get three markers in a row (horizontally, vertically, or diagonally).
+- If the grid fills up without a winner, the game results in a draw.
+- Have fun and may the best player win!
    
 
