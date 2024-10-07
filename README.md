@@ -48,7 +48,7 @@ To get started with the Tic Tac Toe game, follow these simple steps:
      npm run dev
    
 5. **Play the Game**:
-   Open your browser and visit http://localhost:3000 to start playing!
+   Open your browser and load the local host.
 
 
 ## 🎮 How to Play
@@ -56,5 +56,3 @@ To get started with the Tic Tac Toe game, follow these simple steps:
 - The objective is to get three markers in a row (horizontally, vertically, or diagonally).
 - If the grid fills up without a winner, the game results in a draw.
 - Have fun and may the best player win!
-   
-
