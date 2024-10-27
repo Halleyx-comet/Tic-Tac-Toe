@@ -14,17 +14,9 @@ Welcome to the **Tic Tac Toe** game, a classic two-player challenge built with R
 
 This project, originally created three years ago, has been enhanced with new features and an improved design. It provides a fun way to engage with friends or family in a simple yet strategic game of Tic Tac Toe.
 
-## 🚀 Features
-
-- **Two-Player Mode**: Play against a friend!
-- **Reset Button**: Easily restart the game with a single click.
-- **Responsive Design**: Enjoy a seamless experience on all devices.
-- **Modern Aesthetic**: Clean and appealing user interface.
-
 ## ⚙️ Technologies Used
 
 - **React**: For building the user interface.
-- **Vite**: For fast and efficient development.
 - **CSS**: For styling and layout.
 
 ## 📦 Installation
@@ -33,7 +25,7 @@ To get started with the Tic Tac Toe game, follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Sabique-Islam/Tic-Tac-Toe.git
+   git clone https://github.com/Sabique-Islam/Tic-Tac-Toe
 
 2. **Navigate to the Project Directory**:
     ```bash
