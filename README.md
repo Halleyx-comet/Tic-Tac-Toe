@@ -5,8 +5,6 @@ Welcome to the **Tic Tac Toe** game, a classic two-player challenge built with R
 ## 📜 Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
   
