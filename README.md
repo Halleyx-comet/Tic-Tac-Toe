@@ -1,16 +1,6 @@
 # 🎮 Tic Tac Toe
 
-Welcome to the **Tic Tac Toe** game, a classic two-player challenge built with React and Vite! Dive in, challenge your friends, and enjoy this timeless game with a modern twist.
-
-## 📜 Table of Contents
-
-- [Overview](#overview)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-  
-## 🌟 Overview
-
-This project, originally created three years ago, has been enhanced with new features and an improved design. It provides a fun way to engage with friends or family in a simple yet strategic game of Tic Tac Toe.
+Welcome to the **Tic Tac Toe** game, a classic two-player challenge built with React and Vite! Dive in, challenge your friends.
 
 ## ⚙️ Technologies Used
 
